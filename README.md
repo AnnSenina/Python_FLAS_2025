@@ -4,7 +4,7 @@
 # Программа курса: 
 1. Знакомство с Python, git, PyCharm, Colab, Jupyter Notebook, VS Code
 2. [Операторы ввода/вывода (print, display, input), списки](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_1_Intro.ipynb), [циклы](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_2_if%2C_while%2C_for.ipynb) + [бонус](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/%D0%91%D0%BE%D1%82%D1%8B_HomoDigitus.ipynb)
-3. Кортежи, множества, словари
+3. [Кортежи, множества, словари](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_3_tuple%2C_set%2C_dict.ipynb)
 4. Работа с функциями, методы
 5. Работа с файлами, модуль os ***(КТ)***
 6. Регулярные выражения, препроцессинг
