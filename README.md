@@ -5,7 +5,7 @@
 1. Знакомство с Python, git, PyCharm, Colab, Jupyter Notebook, VS Code
 2. [Операторы ввода/вывода (print, display, input), списки](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_1_Intro.ipynb), [циклы](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_2_if%2C_while%2C_for.ipynb) + [бонус](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/%D0%91%D0%BE%D1%82%D1%8B_HomoDigitus.ipynb)
 3. [Кортежи, множества, словари](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_3_tuple%2C_set%2C_dict.ipynb)
-4. Работа с функциями, методы
+4. [Работа с функциями](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_4_Function.ipynb), [методы](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_5_%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D0%BC.ipynb)
 5. Работа с файлами, модуль os ***(КТ)***
 6. Регулярные выражения, препроцессинг
 7. Частотные списки и n-граммы
