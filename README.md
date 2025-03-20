@@ -7,7 +7,7 @@
 3. [Кортежи, множества, словари](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_3_tuple%2C_set%2C_dict.ipynb)
 4. [Работа с функциями](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_4_Function.ipynb), [методы](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_5_%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D0%BC.ipynb)
 5. [Работа с файлами, модуль os](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_6_os%2C_files.ipynb) ***(КТ)***
-6. Регулярные выражения, препроцессинг
+6. [Регулярные выражения, препроцессинг](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_7_regex.ipynb)
 7. Частотные списки и n-граммы
 8. pymorphy, mystem и др.
 9. pandas, работа с датасетами
