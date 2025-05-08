@@ -13,7 +13,7 @@
 9. [pandas, работа с датасетами](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_10_pandas.ipynb)
 10. [Анализ данных и визуализация](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_11_Viz.ipynb) ***(КТ)***
 11. [собираем корпус: парсеры...](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_12_BeautifulSoup.ipynb)
-12. Подготовка данных. Переменные, шкалы.
+12. Поиск -> подготовка данных. Переменные, шкалы.
 13. Описательные статистики. Распределения.
 14. Выбросы. Корреляционный анализ
 15. Введение в машинное обучение ***(КТ)***
