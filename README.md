@@ -14,9 +14,9 @@
 10. [Анализ данных и визуализация](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_11_Viz.ipynb) ***(КТ)***
 11. [собираем корпус: парсеры...](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/Python_12_BeautifulSoup.ipynb)
 12. [Поиск](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/search_data.md) -> подготовка данных. [Переменные, шкалы](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/pandas_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8_%D1%88%D0%BA%D0%B0%D0%BB%D1%8B.ipynb).
-13. Описательные статистики. Частоты и распределения.
-14. Выбросы. Корреляционный анализ
-15. Введение в машинное обучение ***(КТ)***
+13. Описательные статистики. Частоты и распределения. Выбросы.
+14. Корреляционный анализ. Введение в машинное обучение ***(КТ)***
+15. *консультация** не влезает в май! :(
 
 ## Знакомство с Python, git, PyCharm, Colab, Jupyter Notebook 
 Установим Python:
