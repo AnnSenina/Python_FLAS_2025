@@ -16,7 +16,10 @@
 12. [Поиск](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/search_data.md) -> подготовка данных. [Переменные, шкалы](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/pandas_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8_%D1%88%D0%BA%D0%B0%D0%BB%D1%8B.ipynb).
 13. [Выборки](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/4_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%BA%D0%B8.ipynb). [Описательные статистики](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/5_%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8.ipynb). Частоты и распределения. Выбросы. [Группировки](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/6_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D1%8B%2C_pandas.ipynb).
 14. Консультационная встреча. Вопросы к заданию 3.
-15. Корреляционный анализ. Введение в машинное обучение ***(КТ)***
+15. Корреляционный анализ. Введение в машинное обучение ***(КТ)***:
+    - [регрессия](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/11_linreg.ipynb), [регуляризация](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/12_%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_linreg.ipynb)
+    - [классификация и кросс-валидация](https://github.com/AnnSenina/Python_FLAS_2025/blob/main/notebooks/12_logisticreg%2C%20validation.ipynb), + версия с [деревьями](https://colab.research.google.com/drive/1DA86KDzHyZvsK2u-G_mtLQD4qQ3pcSHS?usp=sharing)
+    - [кластеризация](https://colab.research.google.com/drive/1TUsUfOHVtQM3iWmzFx3o0fo1pmOjedLb?usp=sharing)
 
 ## Знакомство с Python, git, PyCharm, Colab, Jupyter Notebook 
 Установим Python:
